@@ -7,6 +7,14 @@ Concisely state what you are aiming to create and what capabilities it will have
 
 In each case, please make sure to be clear about what the interface is for your project. If you are making an app, then the interface should likely be either a local app or a webapp. If you are focusing on scientific computation or data science, then a Jupyter notebook may be an appropriate interface – talk to me if you’re not sure.
 
+We aim to create a machine learning application to help diagnose mental disorders. We will provide a machine learning model to develop an indicator or classifier to determine the mental health state of a person to support early detection.
+
+Although our data domain is not clear at the moment, it could be audio, biosensor, mobile phone usage, social media, questionnaire, health record, etc, we will analyze the given data to finally make a code that shows data set of results. 
+
+If our project leads to a "Full success", our model will be used to detect a mental disorder from several features or states of a person. In this case, since we plan to create a code for a data set, Jupyter Notebook will be an appropriate interface.
+
+On the other hand, if we happen to come up with a "Partial success", we will be at least able to show several relationships between features; for example, how an willingness to seek help from psychologists is related to a satisfaction with life? In this case, we will deliver data analysis in code, therefore a Jupyter Notebook will be an appropriate interface.
+
 ## *Resources Required*
 What resources do you need in order to complete your project? Data? Computing power? An account with a specific service?
 
