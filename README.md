@@ -37,4 +37,6 @@ We believe that our project could make the world an overall better place, and th
 
 
 ## *Tentative Timeline*
-There will be checkpoints for the project at approximately two-week intervals. With this in mind, please describe what you expect to achieve after two, four, and six weeks. At each stage, you should have “something that works.” For example, maybe in two weeks you’ll ready to demonstrate the data acquisition pipeline, in four weeks you’ll be able to demonstrate some data analysis, and in six weeks you’ll have your full machine learning pipeline set up. Please keep in mind that you’ll be asked to present at each of these checkpoints. Showing “something that works” will usually be necessary for full credit.
+  - #### *Week 6*: We anicipate to be able to demonstrate successful data aquisition and manipulation. 
+  - #### *Week 8*: We will show some data analysis and an implemented machine learning model that works with a reasonable accuracy.
+  - #### *Week 10*: We will have our high-level-performance machine learning model and our tool will be ready to use.
