@@ -30,6 +30,9 @@ What skills will you need? Machine learning, database management, complex visual
 ## *What You Will Learn*
 What will you learn by completing this project? Feel free to mention particular techniques, software packages, version control, project management principles, any other learning goals you might have.
 
+We believe we will learn numerous skills and techniques from our project. First, regardless of what data domain we end up using, we will learn to clean and preprocess our data. Then we need to understand and analyze our data, so we will use analytical skills using numpy, pandas, and other packages in Python. Also, we will know what to improve from our failures at multiple points throughout the project. And finally, we will make a presentation to audience to explain and introduce what we have done throughout the quarter.
+
+
 ## *Risks*
 What are two things that could potentially stop you from achieving the full deliverable above? Maybe it turns out that the signal you thought would be present in the data just doesn’t exist? Or maybe your idea requires more computational power than is available to you? What particular risks might be applicable for your project?
 
