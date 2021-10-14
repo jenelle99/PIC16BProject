@@ -3,10 +3,6 @@
 In 3-4 sentences, describe what problem the project addresses, and the overall approach you will use to solve that problem.
 
 ## *Planned Deliverables*
-Concisely state what you are aiming to create and what capabilities it will have. Are you making a webapp? A Python package for others to use? Code that creates a novel data set? Etc. Please consider two scenarios: - “Full success.” What will your deliverable be if everything works out for you exactly as you plan? - “Partial success.” What useful deliverable will you be able to offer even if things don’t 100% work out? For example, maybe you aren’t able to get that webapp together, but you can still create a code repository that showcases the machine learning pipeline needed to use to support the app. Have a contingency plan!
-
-In each case, please make sure to be clear about what the interface is for your project. If you are making an app, then the interface should likely be either a local app or a webapp. If you are focusing on scientific computation or data science, then a Jupyter notebook may be an appropriate interface – talk to me if you’re not sure.
-
 We aim to create a machine learning application to help diagnose mental disorders. We will provide a machine learning model to develop an indicator or classifier to determine the mental health state of a person to support early detection.
 
 Although our data domain is not clear at the moment, it could be audio, biosensor, mobile phone usage, social media, questionnaire, health record, etc, we will analyze the given data to finally make a code that shows data set of results. 
@@ -28,8 +24,6 @@ Most projects should involve data in some way, but certain projects may not requ
 What skills will you need? Machine learning, database management, complex visualization, something else? Do a bit of research into which Python packages accomplish the tasks you are going to need. Feel free to look ahead at what we’re going to do in the remainder of the course – you’re likely to find some of the packages you’ll need there!
 
 ## *What You Will Learn*
-What will you learn by completing this project? Feel free to mention particular techniques, software packages, version control, project management principles, any other learning goals you might have.
-
 We believe we will learn numerous skills and techniques from our project. First, regardless of what data domain we end up using, we will learn to clean and preprocess our data. Then we need to understand and analyze our data, so we will use analytical skills using numpy, pandas, and other packages in Python. Also, we will know what to improve from our failures at multiple points throughout the project. And finally, we will make a presentation to audience to explain and introduce what we have done throughout the quarter.
 
 
