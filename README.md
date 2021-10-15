@@ -1,6 +1,6 @@
 # PIC16B Project Proposal
 ## *Abstract*
-In 3-4 sentences, describe what problem the project addresses, and the overall approach you will use to solve that problem.
+As a group, we are planning on developing a platform that identifies mental health disorders according to symptoms provided by the patient. Our platform will help classify mental disorders and support the clinician with diagnosing the mental health disorder. Also, it may raise awareness and encourage people to seek help. We will work with a large dataset with multiple variables, which will be eventually evaluated by a machine learning algorithm.
 
 ## *Planned Deliverables*
 We aim to create a machine learning application to help diagnose mental disorders. We will provide a machine learning model to develop an indicator or classifier to determine the mental health state of a person to support early detection.
