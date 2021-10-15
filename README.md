@@ -12,13 +12,7 @@ If our project leads to a "Full success", our model will be used to detect a men
 On the other hand, if we happen to come up with a "Partial success", we will be at least able to show several relationships between features; for example, how an willingness to seek help from psychologists is related to a satisfaction with life? In this case, we will deliver data analysis in code, therefore a Jupyter Notebook will be an appropriate interface.
 
 ## *Resources Required*
-What resources do you need in order to complete your project? Data? Computing power? An account with a specific service?
-
-Please pay special attention to the question of data. If your project idea involves data, include at least one link to a data set you can use. It’s also acceptable to link to a website from which you intend to scrape the data you will use (although note that high-quality scraping is a lot of work).
-
-If you can’t find data for your original idea, that’s ok! Think of something related to your group’s interests for which you can find data.
-
-Most projects should involve data in some way, but certain projects may not require data. Ask me if you’re not sure.
+For this project we indend to use the dataset found [here](https://datasets.simula.no/depresjon). This dataset containins sensor data collected from patients suffering from depression. The dataset contains motor activity recordings of 23 unipolar and bipolar depressed patients and 32 healthy controls. The data was collected through wearable sensors measuring different parts of people's activity which relates to various mental health issues such as changes in mood, personality, inability to cope with daily problems or stress. 
 
 ## *Tools and Skills Required*
 What skills will you need? Machine learning, database management, complex visualization, something else? Do a bit of research into which Python packages accomplish the tasks you are going to need. Feel free to look ahead at what we’re going to do in the remainder of the course – you’re likely to find some of the packages you’ll need there!
@@ -37,6 +31,6 @@ We believe that our project could make the world an overall better place, and th
 
 
 ## *Tentative Timeline*
-  - #### *Week 6*: We anicipate to be able to demonstrate successful data aquisition and manipulation. 
-  - #### *Week 8*: We will show some data analysis and an implemented machine learning model that works with a reasonable accuracy.
-  - #### *Week 10*: We will have our high-level-performance machine learning model and our tool will be ready to use.
+  - **Week 6**: We anicipate to be able to demonstrate successful data aquisition and manipulation. 
+  - **Week 8**: We will show some data analysis and an implemented machine learning model that works with a reasonable accuracy.
+  - **Week 10**: We will have our high-level-performance machine learning model and our tool will be ready to use.
