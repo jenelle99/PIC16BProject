@@ -3,9 +3,7 @@
 As a group, we are planning on developing a platform that identifies mental health disorders according to symptoms provided by the patient. Our platform will help classify mental disorders and support the clinician with diagnosing the mental health disorder. Also, it may raise awareness and encourage people to seek help. We will work with a large dataset with multiple variables, which will be eventually evaluated by a machine learning algorithm.
 
 ## *Planned Deliverables*
-We aim to create a machine learning application to help diagnose mental disorders. We will provide a machine learning model to develop an indicator or classifier to determine the mental health state of a person to support early detection.
-
-Although our data domain is not clear at the moment, it could be audio, biosensor, mobile phone usage, social media, questionnaire, health record, etc, we will analyze the given data to finally make a code that shows data set of results. 
+We aim to create a machine learning application to help diagnose mental disorders. We will provide a machine learning model to develop an indicator or classifier to determine the mental health state of a person to support early detection. We will analyze the given data to finally make a code that shows data set of results. 
 
 If our project leads to a "Full success", our model will be used to detect a mental disorder from several features or states of a person. In this case, since we plan to create a code for a data set, Jupyter Notebook will be an appropriate interface.
 
@@ -18,8 +16,7 @@ For this project we indend to use the dataset found [here](https://datasets.simu
 In order to perform the tasks necessary for identifying mental health disorders, we will have to first analyze the data and find an appropriate machine learning algorithm for the platform. To assess the necessary machine learning algorithm and work on the project, we will use various Python packages such as NumPy, Panda, and Scikit Learn, which we have previously used in PIC16A. Python packages like Seaborn and Matplotlib may become useful in data visualization as well. In addition to this, Tensorflow and Statsmodels packages, which we have not yet learned, may become relevant when classifying the mental health disorders according to the data input. 
 
 ## *What You Will Learn*
-We believe we will learn numerous skills and techniques from our project. First, regardless of what data domain we end up using, we will learn to clean and preprocess our data. Then we need to understand and analyze our data, so we will use analytical skills using numpy, pandas, and other packages in Python. Also, we will know what to improve from our failures at multiple points throughout the project. And finally, we will make a presentation to audience to explain and introduce what we have done throughout the quarter.
-
+We believe we will learn numerous skills and techniques from our project. First, we will learn to clean and preprocess our data. Then we need to understand and analyze our data, so we will use analytical skills using numpy, pandas, and other packages in Python. Also, we will know what to improve from our failures at multiple points throughout the project. And finally, we will make a presentation to audience to explain and introduce what we have done throughout the quarter.
 
 ## *Risks*
 We might run into several problems and risks when trying to achieve the full deliverable. One main problem that can come up is that the dataset may not include enough variables and data necessary for analyzing and identifying the disorder. On the other hand, mental disorders’ characteristics are similar to each other, which may complicate identifying and categorizing the disorder. 
