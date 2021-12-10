@@ -292,10 +292,8 @@ if prediction2 == 1: #show this only if model predicts a depressive disorder
     put_text('You might also have depressive disorders')
 ```
 
-Below is the image of our webapp.
+## Final WebApp
 
-![Alt text](/images/webapp1.png?raw=true "Main Page")
+Here's a gif showing how to use the app, and an example of results.
 
-This is what ou result page looks like
-
-![Alt text](/images/webapp2.png?raw=true "Results")
+![Alt Text](/images/demo_gif.gif)
