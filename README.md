@@ -241,6 +241,11 @@ MH = {1 : 'Trauma- and stressor-related disorders',
 ## Create high-end script using PyWebIO
 For our webapp we use PyWebIO which we found to be best to obtain user input and output content on the browser. The webapp displays a survey which asks the user to select the most appropriate value for each question from the dropdown menu. After completing the survey, the user can click submit to see our model's predictions. Running this code block will open a new tab in the browser with our WebApp in in.
 
+### Note that for the app to run you need to do the following:
+1. Make sure that you've installed `pywebio`: that can be done using this command `!pip3 install -U pywebio`.
+2. Run the following block of code.
+3. The app will open in the browser.
+
 ```python
 #WebApp header
 put_markdown('# Mental Health Diagnosis Survey').style('color: MediumSeaGreen; font-style: bold;')
